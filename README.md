@@ -1,2 +1,1 @@
-# horrorWithArpit
- 
+# Horrorr the game.
